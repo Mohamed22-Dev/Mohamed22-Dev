@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohamed El Hairche</h1>
-<h3 align="center">Digital Development Student | Web & App Developer from Morocco</h3>
+<h3 align="center">Digital Development Student | Web & App Developer from Morocco
+(welcome to realities)</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;I+build+websites+and+applications;Frontend+%7C+Backend+%7C+Problem+Solver;Always+learning+new+technologies" alt="Typing SVG" />
