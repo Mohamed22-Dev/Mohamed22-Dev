@@ -53,7 +53,7 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="ضع_رابط_LinkedIn_هنا"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://www.linkedin.com/in/mohamed-el-hairche-7761193b6"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="ضع_رابط_Portfolio_هنا"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white" /></a>
 </p>
 
