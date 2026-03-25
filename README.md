@@ -1,4 +1,6 @@
-vهو<p align="center">
+<h2 align="center">⚡ Kakashi Hatake ⚡</h2>
+
+<p align="center">
   <img src="https://media.giphy.com/media/ZFzMPBMDQttSoK4hDP/giphy.gif" width="220"/>
 </p>
 <p align="center">
