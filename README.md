@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/tuCFp8rod0x3O/giphy.gif" width="200"/>
+</p>
 <h1 align="center">Hi 👋, I'm Mohamed El Hairche</h1>
 <h3 align="center">Digital Development Student | Web & App Developer from Morocco<br>
 (ᴡᴀᴋᴇ ᴜᴘ ᴛᴏ ʀᴇᴀʟɪᴛʏ)</h3>
