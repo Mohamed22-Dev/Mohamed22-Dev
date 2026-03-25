@@ -54,7 +54,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mohamed-el-hairche-7761193b6"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="ضع_رابط_Portfolio_هنا"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white" /></a>
+  <a href="https://mohamed22-dev.github.io/Portfolio-/"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white" /></a>
 </p>
 
 ---
