@@ -1,8 +1,6 @@
 name: Generate Pacman
 
 on:
-  schedule:
-    - cron: "0 */12 * * *"
   workflow_dispatch:
 
 jobs:
@@ -10,7 +8,7 @@ jobs:
     runs-on: ubuntu-latest
 
     permissions:
-      contents: write   # 🔥 مهم بزاف
+      contents: write
 
     steps:
       - uses: actions/checkout@v3
