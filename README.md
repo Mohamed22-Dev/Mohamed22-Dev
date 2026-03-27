@@ -70,7 +70,3 @@
   ✨ Thanks for visiting my profile ✨
 </p>
 
-## 🐍 Contribution Snake
-
-![snake](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
-
