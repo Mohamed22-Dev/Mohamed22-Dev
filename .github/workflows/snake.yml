@@ -1,4 +1,4 @@
-name: Generate Snake
+لاname: Generate Snake
 
 on:
   schedule:
@@ -16,7 +16,7 @@ jobs:
           github_user_name: Mohamed22-Dev
           outputs: dist/github-contribution-grid-snake.svg
 
-      - name: Push to branch
+      - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
