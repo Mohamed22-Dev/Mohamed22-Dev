@@ -72,7 +72,7 @@
 <h1 align="center">Hi 👋, I'm Mohamed El Hairche</h1>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mohamed22-Dev/Mohamed22-Dev/gh-pages/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mohamed22-Dev/Mohamed22-Dev/gh-pages/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Mohamed22-Dev/Mohamed22-Dev/gh-pages/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mohamed22-Dev/Mohamed22-Dev/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mohamed22-Dev/Mohamed22-Dev/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Mohamed22-Dev/Mohamed22-Dev/output/pacman-contribution-graph.svg">
 </picture>
