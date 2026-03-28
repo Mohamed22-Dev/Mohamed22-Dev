@@ -70,3 +70,7 @@
   ✨ Thanks for visiting my profile ✨
 </p>
 
+## 🎮 My Contribution Graph
+
+![Pacman Graph](https://ghchart.rshah.org/Mohamed22-Dev)
+
