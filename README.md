@@ -70,7 +70,13 @@
   ✨ Thanks for visiting my profile ✨
 </p>
 
-## 🎮 My Contribution Graph
+<h1 align="center">Hi 👋, I'm Mohamed El Hairche</h1>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+</picture>
+## 🎮 Pacman Contribution Graph
 
 ![Pacman Graph](https://ghchart.rshah.org/Mohamed22-Dev)
-
