@@ -70,10 +70,10 @@
   ✨ Thanks for visiting my profile ✨
 </p>
 
-<h1 align="center">Hi 👋, I'm Mohamed El Hairche</h1>
+## 🎮 My GitHub Activity
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://ghchart.rshah.org/Mohamed22-Dev">
+  <source media="(prefers-color-scheme: light)" srcset="https://ghchart.rshah.org/Mohamed22-Dev">
+  <img alt="GitHub Contributions" src="https://ghchart.rshah.org/Mohamed22-Dev">
 </picture>
