@@ -12,8 +12,7 @@
 <p align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN21xdzY2dmRlcjNlOWNyOWtta2Zkb3c1MTJ0eGc3a2t1OWxjb2s3bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/s8UHGqq9xqJmwZZtHn/giphy.gif" width="400"/>
 </p>
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHdmZDhzcDh0NzRqdHl6Mmx2bzkwam9ucGF5ODJ5NGhqM3B2ZmZvYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="400"/>
-</p>
+
 ## 🧑‍💻 About Me
 
 - 🎓 Digital Development Student  
