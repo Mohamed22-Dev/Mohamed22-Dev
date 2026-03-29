@@ -79,9 +79,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Mohamed22-Dev&theme=tokyonight&hide_border=true" />
 </p>
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="500"/>
+  <img src="https://media.giphy.com/media/1ZDHvHT2rhT5m9f0Ha/giphy.gif" width="500"/>
 </p>
-
 
 ---
 
