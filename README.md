@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.tenor.com/images/4c0a8c6fbc7c0d5a0d7b9c6a4b52e8f4/tenor.gif" width="350"/>
+  <img src="https://media.tenor.com/0T6rZ7Yk0c0AAAAC/luffy-yo.gif" width="350">
 </p>
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=18&duration=2000&pause=500&color=FFFFFF&center=true&vCenter=true&width=1000&height=120&lines=HI+I'M+MOHAMED+EL+HAIRCHE+%3C%2F%3E;WELCOME+TO+MY+PROFILE;DIGITAL+DEVELOPMENT+STUDENT" />
