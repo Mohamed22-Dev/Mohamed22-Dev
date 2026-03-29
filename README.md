@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/8RKXAIV.png" width="350"><br><br>
+  <img src="https://raw.githubusercontent.com/Mohamed22-Dev/REPO-NAME/main/luffy.png" width="350"><br><br>
   
   <img src="https://readme-typing-svg.herokuapp.com?color=FF0000&center=true&vCenter=true&width=200&size=35&lines=YO">
 </p>
