@@ -105,13 +105,43 @@
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mohamed22-Dev&theme=github_dark&utcOffset=1" />
 </p>
-## 🚀 Projects
+<h2 align="center">🚀 My Projects</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/My%20Projects-00F7FF?style=for-the-badge">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Check+Out+My+Projects;Full+Stack+Development;Creative+Web+Apps+🚀" />
 </p>
 
 ---
+
+## 🌐 Featured Projects
+
+### 💻 Project 1 – Portfolio Website
+🔗 https://your-portfolio-link.com  
+✨ Modern UI / Responsive / Fast  
+
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400"/>
+</p>
+
+---
+
+### 🛒 Project 2 – E-commerce App
+🔗 https://your-project-link.com  
+⚡ React + API + Payment Integration  
+
+<p align="center">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400"/>
+</p>
+
+---
+
+### 📱 Project 3 – Mobile App
+🔗 https://your-project-link.com  
+🚀 Clean Design + Smooth UX  
+
+<p align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400"/>
+</p>
 
 ## 🌐 Connect With Me
 
