@@ -165,10 +165,7 @@
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> 
     </picture> 
   </a>
-</p>
-
-  
-  <a href="https://mohamed22-dev.github.io/Portfolio-/">
+   <a href="https://mohamed22-dev.github.io/Portfolio-/">
     <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </p>
