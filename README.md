@@ -130,7 +130,7 @@
 ⚡ React + API + Payment Integration  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnk3ajJud2Q4bTk1OHMwbWZnZ3kwaTQzamMxMjM0YWFsYW5uY3luMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7buibpMgSBln8dNu/giphy.gif" width="250" alt="Creative project animation"/>
 </p>
 
 ---
@@ -140,7 +140,7 @@
 🚀 Clean Design + Smooth UX  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400"/>
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="250"/>
 </p>
 
 ## 🌐 Connect With Me
