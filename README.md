@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://tenor.com/tmiGoj6m4CX.gif" width="350"/>
+  <img src="https://media.tenor.com/tmiGoj6m4CXAAAAC/luffy-yo.gif" width="350"/>
 </p>
 
 <p align="center">
