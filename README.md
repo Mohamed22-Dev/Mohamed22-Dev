@@ -5,10 +5,14 @@
   <img src="HI-IM-KAWTAR-WELCOM-TO-MY-PROF-unscreen.gif" width="900">
 </p>
 
+<!-- <h1 align="center"> Hi ! My name is 𝒦𝒜𝑾𝒯𝒜𝑅 𝑬𝑳𝑮 </h1> -->
+
+<!--<p align="center">
+  I'm a junior developer 👩‍💻
+</p>-->
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100"/>
-  <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="100"/>
+  <img src="JXA0.gif" alt="gif">
 </p>
 
 ---
