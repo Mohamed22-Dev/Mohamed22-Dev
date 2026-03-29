@@ -87,22 +87,13 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=My+GitHub+Activity;Always+Learning+🚀;Building+Cool+Projects+💻" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohamed22-Dev&show_icons=true&theme=github_dark&hide_border=true" width="48%"/>
+  <img src="https://streak-stats.demolab.com?user=Mohamed22-Dev&theme=github-dark&hide_border=true" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohamed22-Dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed22-Dev&layout=compact&theme=github_dark&hide_border=true" width="40%"/>
 </p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Mohamed22-Dev&theme=tokyonight&hide_border=true&background=00000000" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed22-Dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
-</p>
-
----
 
 ## 🚀 Projects
 
