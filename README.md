@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://in.pinterest.com/pin/luffy-yo-gif-luffy-yo-hi-discover-and-share-gifs--636837203624714172/" width="350">
+  <img src="https://pin.it/3FRVWA2hV" width="350">
 </p>
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=18&duration=2000&pause=500&color=FFFFFF&center=true&vCenter=true&width=1000&height=120&lines=HI+I'M+MOHAMED+EL+HAIRCHE+%3C%2F%3E;WELCOME+TO+MY+PROFILE;DIGITAL+DEVELOPMENT+STUDENT" />
