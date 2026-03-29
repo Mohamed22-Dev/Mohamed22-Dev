@@ -125,8 +125,8 @@
 
 ---
 
-### 🛒 Project 2 – E-commerce App
-🔗 https://your-project-link.com  
+### 🛒 Project 2 – Calculatrice-Scientifique
+🔗 https://github.com/Mohamed22-Dev/Calculatrice-Scientifique
 ⚡ React + API + Payment Integration  
 
 <p align="center">
@@ -135,8 +135,8 @@
 
 ---
 
-### 📱 Project 3 – Mobile App
-🔗 https://your-project-link.com  
+### 📱 Project 3 – Drone-Autonome
+🔗 https://github.com/Mohamed22-Dev/Drone-Autonome
 🚀 Clean Design + Smooth UX  
 
 <p align="center">
