@@ -49,8 +49,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons
-    i=,dotnet,cs,django,flask,react,vue,git,github,vscode,figma,nodejs,bootstrap,tailwind&theme=dark" />
+  <img src="https://skillicons.dev/iconsi=,dotnet,django,flask,react,vue,git,github,vscode,figma,nodejs,bootstrap,tailwind&theme=dark" />
 </p>
 
 <p align="center">
