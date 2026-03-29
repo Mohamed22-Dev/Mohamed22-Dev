@@ -120,7 +120,7 @@
 ✨ Modern UI / Responsive / Fast  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdncxaGEyZzZ3d2JqeHZoMW00ODhoM3ViMGdmcWtsZnp0YnA3NTJ1MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/llWD7trIs25eUHDCFg/giphy.gif" width="300" alt="Project preview"/>
 </p>
 
 ---
