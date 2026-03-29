@@ -25,6 +25,9 @@
 - ✦︎ 🚀  I'm currently working on my own project <br>
 - ✦︎ 🧠  I'm learning Swift / Flutter and some other languages 💪🏼<br>
 <br>
+<a href="https://github.com/Mohamed22-Dev" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/github/followers/Mohamed22-Dev?logo=github&style=for-the-badge&color=00F7FF&labelColor=0f172a" />
+</a>
 
 ---
 
