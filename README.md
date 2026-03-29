@@ -83,18 +83,19 @@
 </p>
 
 ---
-
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohamed22-Dev&show_icons=true&theme=github_dark&hide_border=true" width="48%"/>
-  <img src="https://streak-stats.demolab.com?user=Mohamed22-Dev&theme=github-dark&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohamed22-Dev&show_icons=true&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed22-Dev&layout=compact&theme=github_dark&hide_border=true" width="40%"/>
+  <img src="https://streak-stats.demolab.com?user=Mohamed22-Dev&theme=radical&hide_border=true" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed22-Dev&layout=compact&theme=radical&hide_border=true" />
+</p>
 ## 🚀 Projects
 
 <p align="center">
