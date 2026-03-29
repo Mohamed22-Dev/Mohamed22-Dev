@@ -60,16 +60,20 @@
 <h2 align="center">🧠 Soft Skills</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=Problem+Solving;Critical+Thinking;Team+Work;Communication;Creativity;Time+Management;Adaptability" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=8A2BE2&center=true&vCenter=true&width=600&lines=Problem+Solving+⚡;Creative+Thinking+🎨;Team+Work+🤝;Strong+Communication+💬;Fast+Learner+🚀;Adaptability+🔥" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Problem%20Solving-00F7FF?style=for-the-badge&logo=brain&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Team%20Work-0f172a?style=for-the-badge&logo=teamspeak&logoColor=00F7FF"/>
-  <img src="https://img.shields.io/badge/Communication-00F7FF?style=for-the-badge&logo=googlechat&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Creativity-0f172a?style=for-the-badge&logo=adobe&logoColor=00F7FF"/>
-  <img src="https://img.shields.io/badge/Time%20Management-00F7FF?style=for-the-badge&logo=clockify&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Adaptability-0f172a?style=for-the-badge&logo=dependabot&logoColor=00F7FF"/>
+  <img src="https://img.shields.io/badge/Problem%20Solving-0f172a?style=for-the-badge&logo=hackthebox&logoColor=8A2BE2"/>
+  <img src="https://img.shields.io/badge/Team%20Work-020617?style=for-the-badge&logo=teamspeak&logoColor=22c55e"/>
+  <img src="https://img.shields.io/badge/Communication-0f172a?style=for-the-badge&logo=googlechat&logoColor=38bdf8"/>
+  <img src="https://img.shields.io/badge/Creativity-020617?style=for-the-badge&logo=adobe&logoColor=f472b6"/>
+  <img src="https://img.shields.io/badge/Time%20Management-0f172a?style=for-the-badge&logo=clockify&logoColor=facc15"/>
+  <img src="https://img.shields.io/badge/Adaptability-020617?style=for-the-badge&logo=dependabot&logoColor=fb7185"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Mohamed22-Dev&theme=tokyonight&hide_border=true" />
 </p>
 
 
