@@ -10,9 +10,8 @@
 <p align="center">
   <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100"/>
   <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="100"/>
-</p>
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="900"/>
+  <img src="https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif" width="900"/>
 </p>
 
 ## 🧑‍💻 About Me
