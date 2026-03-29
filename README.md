@@ -1,7 +1,9 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Mohamed22-Dev/REPO-NAME/main/luffy.png" width="350"><br><br>
-  
-  <img src="https://readme-typing-svg.herokuapp.com?color=FF0000&center=true&vCenter=true&width=200&size=35&lines=YO">
+  <img src="https://media.giphy.com/media/1W40UWS9peSru/giphy.gif" width="400">
+</p>
+
+<p align="center">
+  yo
 </p>
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=18&duration=2000&pause=500&color=FFFFFF&center=true&vCenter=true&width=1000&height=120&lines=HI+I'M+MOHAMED+EL+HAIRCHE+%3C%2F%3E;WELCOME+TO+MY+PROFILE;DIGITAL+DEVELOPMENT+STUDENT" />
