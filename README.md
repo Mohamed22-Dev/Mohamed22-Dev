@@ -15,11 +15,11 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 Digital Development Student  
-- 💻 Passionate about Web Development  
-- 🚀 Future Full Stack Developer  
-- 🌱 Learning React, PHP & Backend  
-- ⚡ I build modern & creative websites
+- ✦︎ 🎓 Digital Development Student  
+- ✦︎ 💻 Passionate about Web Development  
+- ✦︎ 🚀 Future Full Stack Developer  
+-✦︎  🌱 Learning React, PHP & Backend  
+- ✦︎ ⚡ I build modern & creative websites
 - ✦︎ 🌍  I'm based in The Moon 🌚<br>
 ✦︎ ✉️  You can contact me at elgaddikawtar@gmail.com<br>
 ✦︎ 🚀  I'm currently working on my own project <br>
