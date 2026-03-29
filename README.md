@@ -12,7 +12,7 @@
 - 🎓 Digital Development Student  
 - 💻 Passionate about Web Development  
 - 🚀 Future Full Stack Developer  
-- 🌱 Learning React & Backend  
+- 🌱 Learning React, PHP & Backend  
 - ⚡ I build modern & creative websites  
 
 ---
@@ -20,40 +20,40 @@
 ## 🎥 Coding Vibes
 
 <p align="center">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="320"/>
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="320"/>
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="320"/>
 </p>
 
 ---
 
-## 🛠️ Tech Stack ⚡
+## 🛠️ Tech Stack ⚡ (Animated)
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,php,mysql,git,github,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,php,mysql,git,github,vscode,figma,nodejs,bootstrap,tailwind&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed22-Dev&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-## 🎯 Soft Skills
+## 🎯 Soft Skills ⚡
 
 <p align="center">
-  🧠 Problem Solving • 🤝 Team Work • ⏳ Time Management • 🎯 Creativity • 🔥 Fast Learner
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Problem+Solving;Team+Work;Time+Management;Creativity;Fast+Learner" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats (FIXED 🔥)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohamed22-Dev&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohamed22-Dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Mohamed22-Dev&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohamed22-Dev&theme=tokyo-night" />
+  <img src="https://streak-stats.demolab.com?user=Mohamed22-Dev&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -66,11 +66,15 @@
 
 ---
 
-## 🌐 Portfolio
+## 🌐 Connect With Me
 
 <p align="center">
+  <a href="https://your-linkedin.com">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  
   <a href="https://your-portfolio-link.com">
-    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </p>
 
