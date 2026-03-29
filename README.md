@@ -19,7 +19,12 @@
 - 💻 Passionate about Web Development  
 - 🚀 Future Full Stack Developer  
 - 🌱 Learning React, PHP & Backend  
-- ⚡ I build modern & creative websites  
+- ⚡ I build modern & creative websites
+- ✦︎ 🌍  I'm based in The Moon 🌚<br>
+✦︎ ✉️  You can contact me at elgaddikawtar@gmail.com<br>
+✦︎ 🚀  I'm currently working on my own project <br>
+✦︎ 🧠  I'm learning Swift / Flutter and some other languages 💪🏼<br>
+<br>
 
 ---
 
