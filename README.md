@@ -1,9 +1,16 @@
 <p align="center">
   <img src="https://media.giphy.com/media/tuCFp8rod0x3O/giphy.gif" width="200"/>
 </p>
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Mohamed+El+Hairche;Digital+Development+Student;Future+Full+Stack+Developer+🚀" />
-</h1>
+<p align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=18&duration=2000&pause=500&color=FFFFFF&center=true&vCenter=true&width=1000&height=120&lines=HI+I'M+MOHAMED+EL+HAIRCHE+%3C%2F%3E;WELCOME+TO+MY+PROFILE;DIGITAL+DEVELOPMENT+STUDENT" />
+
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="100"/>
+</p>
 
 ---
 
