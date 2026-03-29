@@ -52,9 +52,6 @@
   <img src="https://skillicons.dev/icons?i=,cs,django,flask,react,vue,git,github,vscode,figma,nodejs,bootstrap,=dark" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed22-Dev&layout=compact&theme=tokyonight" />
-</p>
 
 ---
 
