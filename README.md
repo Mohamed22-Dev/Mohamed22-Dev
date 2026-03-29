@@ -54,12 +54,21 @@
 
 
 ---
-
-## 🎯 Soft Skills ⚡
+<h2 align="center">🧠 Soft Skills</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Problem+Solving;Team+Work;Time+Management;Creativity;Fast+Learner" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=Problem+Solving;Critical+Thinking;Team+Work;Communication;Creativity;Time+Management;Adaptability" />
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Problem%20Solving-00F7FF?style=for-the-badge&logo=brain&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Team%20Work-0f172a?style=for-the-badge&logo=teamspeak&logoColor=00F7FF"/>
+  <img src="https://img.shields.io/badge/Communication-00F7FF?style=for-the-badge&logo=googlechat&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Creativity-0f172a?style=for-the-badge&logo=adobe&logoColor=00F7FF"/>
+  <img src="https://img.shields.io/badge/Time%20Management-00F7FF?style=for-the-badge&logo=clockify&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Adaptability-0f172a?style=for-the-badge&logo=dependabot&logoColor=00F7FF"/>
+</p>
+
 
 ---
 
