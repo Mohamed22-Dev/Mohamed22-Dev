@@ -1,18 +1,12 @@
 <p align="center">
   <img src="https://media.giphy.com/media/tuCFp8rod0x3O/giphy.gif" width="200"/>
 </p>
-<p align="center"> 
-  <img src="HI-IM-KAWTAR-WELCOM-TO-MY-PROF-unscreen.gif" width="900">
+<p align="center">
+  <img src="./HI-IM-MOHAMED-EL-HAIRCHE.gif" width="900"/>
 </p>
 
-<!-- <h1 align="center"> Hi ! My name is 𝒦𝒜𝑾𝒯𝒜𝑅 𝑬𝑳𝑮 </h1> -->
-
-<!--<p align="center">
-  I'm a junior developer 👩‍💻
-</p>-->
-
 <p align="center">
-  <img src="JXA0.gif" alt="gif">
+  <img src="./JXA0.gif" width="220"/>
 </p>
 
 ---
