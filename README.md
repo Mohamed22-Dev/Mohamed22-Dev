@@ -86,15 +86,24 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohamed22-Dev&show_icons=true&theme=radical&hide_border=true" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&width=600&lines=My+GitHub+Activity;Always+Improving;Building+Projects+🚀" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Mohamed22-Dev&theme=radical&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mohamed22-Dev&theme=github_dark" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed22-Dev&layout=compact&theme=radical&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mohamed22-Dev&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mohamed22-Dev&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Mohamed22-Dev&theme=dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mohamed22-Dev&theme=github_dark&utcOffset=1" />
 </p>
 ## 🚀 Projects
 
