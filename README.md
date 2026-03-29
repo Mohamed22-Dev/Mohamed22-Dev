@@ -2,6 +2,8 @@
   <img src="https://media.giphy.com/media/tuCFp8rod0x3O/giphy.gif" width="200"/>
 </p>
 <p align="center">
+
+<p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=18&duration=2000&pause=500&color=FFFFFF&center=true&vCenter=true&width=1000&height=120&lines=HI+I'M+MOHAMED+EL+HAIRCHE+%3C%2F%3E;WELCOME+TO+MY+PROFILE;DIGITAL+DEVELOPMENT+STUDENT" />
 
 </p>
