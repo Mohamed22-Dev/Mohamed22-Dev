@@ -126,7 +126,7 @@
 ---
 
 ### 🛒 Project 2 – Calculatrice-Scientifique
-🔗 https://github.com/Mohamed22-Dev/Calculatrice-Scientifique
+🔗 https://github.com/Mohamed22-Dev/Calculatrice-Scientifique <br>
 ⚡ React + API + Payment Integration  
 
 <p align="center">
@@ -136,7 +136,7 @@
 ---
 
 ### 📱 Project 3 – Drone-Autonome
-🔗 https://github.com/Mohamed22-Dev/Drone-Autonome
+🔗 https://github.com/Mohamed22-Dev/Drone-Autonome <br>
 🚀 Clean Design + Smooth UX  
 
 <p align="center">
