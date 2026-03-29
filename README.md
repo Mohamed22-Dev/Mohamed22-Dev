@@ -11,42 +11,66 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=FF6B6B&center=true&vCenter=true&width=450&lines=Digital+Developer;Creative+Problem+Solver;Full+Stack+Enthusiast" alt="Animated role" />
 </p>
 
-<!--- new GIF (choose one of these two links, replace src) --->
+<!--- NEW GIF (clean, no people, just code flow) --->
 <p align="center">
-  <!-- Option 1: abstract digital code flow -->
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3R4bW5qbnNtM3V6dGZ2a2p0dHl4Y2VvZ2Npbmc4Z2Z2cWtqZ2p0cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="600" alt="Digital development" />
-  <!-- Option 2: neon coding interface (uncomment the line below and comment the one above)
-  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif?cid=790b7611w8x2k7e6f5d4s3a2z9x8c7v6b5n4m3l2k1j0h9g8&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="600" alt="Coding neon" />
-  -->
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHk0dGZ1Z3Z2b3p0eXZkYWZ2bGZ6cWJqZ3JpN2d4cDZzN3J2bHl5cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7abB06u9bNzA8LC8/giphy.gif" width="600" alt="Digital code flow" />
 </p>
 
 <style>
-  /* this CSS animation works perfectly on GitHub */
+  /* CSS animations that work perfectly on GitHub */
   .tech-badge {
     transition: all 0.3s ease;
     display: inline-block;
-    margin: 4px;
+    margin: 5px;
   }
   .tech-badge:hover {
-    transform: scale(1.08);
-    filter: drop-shadow(0 0 5px #00C9FF);
+    transform: scale(1.1);
+    filter: drop-shadow(0 0 8px #00c9ff);
   }
   .icon-link {
-    transition: transform 0.2s;
+    transition: all 0.3s ease;
     display: inline-block;
-    margin: 0 10px;
+    margin: 0 15px;
   }
   .icon-link:hover {
-    transform: translateY(-3px);
+    transform: translateY(-4px);
+    filter: drop-shadow(0 0 6px #00c9ff);
+  }
+  .soft-skill {
+    transition: all 0.3s ease;
+    display: inline-block;
+    background: #1e1e2f;
+    padding: 8px 16px;
+    border-radius: 20px;
+    margin: 6px;
+    color: #ccc;
+    font-weight: bold;
+  }
+  .soft-skill:hover {
+    transform: scale(1.05) translateY(-3px);
+    background: #00c9ff;
+    color: #0d0d1a;
+    box-shadow: 0 0 12px #00c9ff;
+  }
+  .learning-goal {
+    transition: all 0.3s ease;
+    padding: 6px 12px;
+    margin: 5px;
+    display: inline-block;
+    border-left: 3px solid #00c9ff;
+  }
+  .learning-goal:hover {
+    transform: translateX(6px);
+    border-left-color: #ff6b6b;
   }
 </style>
 
 ## ✨ About me
 
-🎓 Digital Development student passionate about crafting modern web experiences.  
-💡 I turn ideas into clean, efficient code.  
-🌱 Currently diving deeper into **Next.js, TypeScript, and Cloud (AWS)**.  
-⚡ Fun fact: I love solving algorithmic puzzles in my free time.
+- 🎓 Digital Development student passionate about crafting modern web experiences.
+- 💡 I turn ideas into clean, efficient code.
+- 🚀 Currently diving deeper into **Next.js, TypeScript, and Cloud (AWS)**.
+- ⚡ Fun fact: I love solving algorithmic puzzles in my free time.
 
 ---
 
@@ -73,23 +97,29 @@
 
 ---
 
-## 🧠 Soft Skills
+## 🧠 Soft Skills (with hover animation)
 
-- 🤝 Team collaboration & agile methodologies  
-- 🗣️ Clear communication & technical documentation  
-- ⏱️ Time management & self‑discipline  
-- 🔍 Problem solving & critical thinking  
-- 📚 Continuous learning & adaptability  
+<p align="center">
+  <span class="soft-skill">🤝 Team collaboration</span>
+  <span class="soft-skill">🗣️ Clear communication</span>
+  <span class="soft-skill">⏱️ Time management</span>
+  <span class="soft-skill">🔍 Problem solving</span>
+  <span class="soft-skill">📚 Continuous learning</span>
+  <span class="soft-skill">💡 Creativity</span>
+  <span class="soft-skill">🎯 Goal oriented</span>
+</p>
 
 ---
 
-## 🚀 Featured projects (I will add my links later)
+## 🎯 Learning goals for 2026 (new section)
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| **Portfolio v2** | Modern 3D interactive portfolio | Next.js, Three.js, Tailwind |
-| **E‑commerce API** | RESTful API with auth & payments | Node.js, Express, MongoDB |
-| **Weather dashboard** | Real‑time weather with maps | React, OpenWeather API |
+<p align="center">
+  <span class="learning-goal">✅ Master Next.js 15</span><br/>
+  <span class="learning-goal">✅ Get AWS Cloud Practitioner certified</span><br/>
+  <span class="learning-goal">✅ Build 3 full‑stack projects</span><br/>
+  <span class="learning-goal">✅ Contribute to open source</span><br/>
+  <span class="learning-goal">✅ Learn GraphQL & Apollo</span>
+</p>
 
 ---
 
@@ -115,7 +145,7 @@
 
 ---
 
-## 📫 Connect with me
+## 📫 Connect with me (No Twitter)
 
 <p align="center">
   <a href="#" class="icon-link" target="_blank">
@@ -123,12 +153,6 @@
   </a>
   <a href="#" class="icon-link" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white&style=for-the-badge" alt="Portfolio" />
-  </a>
-  <a href="#" class="icon-link" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub" />
-  </a>
-  <a href="#" class="icon-link" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge" alt="Twitter" />
   </a>
 </p>
 
