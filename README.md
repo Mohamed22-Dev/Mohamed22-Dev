@@ -178,8 +178,6 @@
 <p align="center">
   🚀 Always learning • Always building • Always improving
 </p>
-<h1 align="center">Hi 👋, I'm Mohamed El Hairche</h1>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mohamed22-Dev/Mohamed22-Dev/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mohamed22-Dev/Mohamed22-Dev/output/pacman-contribution-graph.svg">
