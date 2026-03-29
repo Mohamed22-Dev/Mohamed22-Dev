@@ -55,7 +55,7 @@
   <img src="https://skillicons.dev/icons?i=,cs,django,flask,react,vue,git,github,vscode,figma,nodejs,bootstrap,=dark" />
 </p>
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDliOTl1OWgzeGxybXV3Mmh1dW9xcXJud2hodmNleHQzMWVpamZ5NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cn2noc6qR0HjAfVzmn/giphy.gif" width="600" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDliOTl1OWgzeGxybXV3Mmh1dW9xcXJud2hodmNleHQzMWVpamZ5NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cn2noc6qR0HjAfVzmn/giphy.gif" width="300" />
 </p>
 
 
