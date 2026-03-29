@@ -146,20 +146,29 @@
 
 
 
-<p align="center">
-  <a href="https://github.com/Mohamed22-Dev">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed22-Dev&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=00F7FF&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
+## 🌐 Connect With Me
+
+
+<p align="center"> 
+  <a href="https://github.com/Mohamed22-Dev" target="_blank" rel="noreferrer"> 
+    <picture> 
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> 
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> 
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> 
+    </picture> 
+  </a> 
+  
+  <a href="https://www.linkedin.com/in/mohamed-el-hairche-7761193b6/" target="_blank" rel="noreferrer"> 
+    <picture> 
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> 
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> 
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> 
+    </picture> 
   </a>
 </p>
 
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://your-linkedin.com">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
   
-  <a href="https://your-portfolio-link.com">
+  <a href="https://mohamed22-dev.github.io/Portfolio-/">
     <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </p>
