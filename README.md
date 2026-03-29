@@ -116,7 +116,7 @@
 ## 🌐 Featured Projects
 
 ### 💻 Project 1 – Portfolio Website
-🔗 https://your-portfolio-link.com  
+🔗 https://github.com/Mohamed22-Dev/Calculatrice-Scientifique
 ✨ Modern UI / Responsive / Fast  
 
 <p align="center">
