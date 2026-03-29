@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://pin.it/3FRVWA2hV" width="350">
+  <img src="https://tenor.com/en-GB/view/luffy-yo-hi-bonjour-hello-gif-16110993206874302841" width="350">
 </p>
+
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=18&duration=2000&pause=500&color=FFFFFF&center=true&vCenter=true&width=1000&height=120&lines=HI+I'M+MOHAMED+EL+HAIRCHE+%3C%2F%3E;WELCOME+TO+MY+PROFILE;DIGITAL+DEVELOPMENT+STUDENT" />
 
