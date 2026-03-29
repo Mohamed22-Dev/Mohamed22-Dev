@@ -143,6 +143,15 @@
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="250"/>
 </p>
 
+
+
+
+<p align="center">
+  <a href="https://github.com/Mohamed22-Dev">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed22-Dev&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=00F7FF&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
+  </a>
+</p>
+
 ## 🌐 Connect With Me
 
 <p align="center">
