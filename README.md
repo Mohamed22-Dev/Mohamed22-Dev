@@ -94,7 +94,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohamed22-Dev&theme=react-dark&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohamed22-Dev&theme=react-dark&hide_border=true" width="250" />
 </p>
 
 ---
