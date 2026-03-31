@@ -81,9 +81,6 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Mohamed22-Dev&theme=tokyonight&hide_border=true" />
 </p>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=400&lines=Soft+Skills" />
-</p>
 
 ---
 <h2 align="center">📊 GitHub Stats</h2>
