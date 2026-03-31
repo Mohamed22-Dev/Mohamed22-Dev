@@ -2,7 +2,7 @@ name: Generate Pacman Graph
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # كل نهار
+    - cron: "0 0 * * *"   #evry day
   workflow_dispatch:
 
 permissions:
