@@ -86,15 +86,15 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/My%20GitHub%20Activity-00FFAA?style=for-the-badge&logo=github&logoColor=black">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohamed22-Dev&show_icons=true&theme=github_dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohamed22-Dev&show_icons=true&theme=dark&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Mohamed22-Dev&theme=github-dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Mohamed22-Dev&theme=dark&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohamed22-Dev&theme=react-dark&hide_border=true" />
 </p>
 
 ---
