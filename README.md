@@ -44,7 +44,7 @@
 
 ---
 
-## 🛠️ Tech Stack ⚡ (Animated)
+## 🛠️ Tech Stack ⚡ 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Kawtar-Elg/KAWTAR-Elg/main/coding-typing.gif" width="350"/>
 </p>
