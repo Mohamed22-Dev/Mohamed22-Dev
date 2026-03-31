@@ -105,11 +105,6 @@
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mohamed22-Dev&theme=github_dark&utcOffset=1" />
 </p>
-<h2 align="center">🚀 My Projects</h2>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Check+Out+My+Projects;Full+Stack+Development;Creative+Web+Apps+🚀" />
-</p>
 
 ---
 
