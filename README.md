@@ -133,7 +133,7 @@
 
 
  
-  
+  <p align="center">
   <a href="https://www.linkedin.com/in/mohamed-el-hairche-7761193b6/" target="_blank](https://www.linkedin.com/in/mohamde-hairche-04600a439/)"> 
     <picture> 
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> 
